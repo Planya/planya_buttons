@@ -1,0 +1,22 @@
+{
+  "footer": {
+    "p": "This site has been created for entertainment purposes only. Any matches with vtubers are accidental. If you are the author of art (s) please contact me on Discord.",
+    "span": "Planya, it was not me who did it, I was hacked.",
+    "a": "A little horny"
+  },
+  "choice": {
+    "dark": "Dark",
+    "light": "Light",
+    "loli": "Loli",
+    "change": "Change Planya"
+  },
+  "alert": {
+    "sounds": "Be careful, horny sounds.",
+    "arr": [
+      "If you are",
+      "under 18",
+      "then please leave this site",
+      "Although who will it stop"
+    ]
+  }
+}
